@@ -1,0 +1,2 @@
+# Nonlinear_Multiclass_Classification_with_PyTorch_A_Typical_Workflow
+a typical workflow for a nonlinear multi-class classification with PyTorch
